@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/": {},
+    "/inactive": {},
+    "/product-explorer": {}
+  }
+}
